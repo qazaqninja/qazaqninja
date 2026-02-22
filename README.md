@@ -18,7 +18,6 @@ I build mobile apps with Flutter and occasionally write native Swift. Mostly foc
 |---------|-------------|
 | [dict8](https://github.com/qazaqninja/dict8) | Local offline speech-to-text for macOS — hold Right Option to dictate |
 | [ctx](https://github.com/qazaqninja/ctx) | TypeScript project |
-| [teabot](https://github.com/qazaqninja/teabot) | Python project |
 | [claude-cleanup](https://github.com/qazaqninja/claude-cleanup) | Shell hooks for Claude Code process cleanup |
 
 ## Connect
