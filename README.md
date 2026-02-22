@@ -10,7 +10,7 @@ Lead Flutter Engineer from Kazakhstan
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-4+ years in mobile development. 88+ feature modules, 6+ production apps, 50K+ downloads across Flutter and native iOS.
+I build mobile apps with Flutter and occasionally write native Swift. Mostly focused on shipping things that people actually use.
 
 ## Open Source
 
