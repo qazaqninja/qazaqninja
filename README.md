@@ -17,8 +17,9 @@ I build mobile apps with Flutter and occasionally write native Swift. Mostly foc
 | Project | Description |
 |---------|-------------|
 | [dict8](https://github.com/qazaqninja/dict8) | Local offline speech-to-text for macOS — hold Right Option to dictate |
-| [ctx](https://github.com/qazaqninja/ctx) | TypeScript project |
-| [claude-cleanup](https://github.com/qazaqninja/claude-cleanup) | Shell hooks for Claude Code process cleanup |
+| [ctx](https://github.com/qazaqninja/ctx) | CLI that extracts coding patterns and conventions from codebases into AI-ready context |
+| [teabot](https://github.com/qazaqninja/teabot) | Telegram bot for daily Islamic spiritual activity reminders |
+| [claude-cleanup](https://github.com/qazaqninja/claude-cleanup) | Hooks that auto-kill orphaned Claude Code processes eating your RAM |
 
 ## Connect
 
