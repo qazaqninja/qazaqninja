@@ -14,12 +14,38 @@ I build mobile apps with Flutter and occasionally write native Swift. Mostly foc
 
 ## Open Source
 
-| Project | Description |
-|---------|-------------|
-| [dict8](https://github.com/qazaqninja/dict8) | Local offline speech-to-text for macOS — hold Right Option to dictate |
-| [ctx](https://github.com/qazaqninja/ctx) | CLI that extracts coding patterns and conventions from codebases into AI-ready context |
-| [teabot](https://github.com/qazaqninja/teabot) | Telegram bot for daily Islamic spiritual activity reminders |
-| [claude-cleanup](https://github.com/qazaqninja/claude-cleanup) | Hooks that auto-kill orphaned Claude Code processes eating your RAM |
+| Project | Description | Tech |
+|---------|-------------|------|
+| [dict8](https://github.com/qazaqninja/dict8) | Local offline speech-to-text for macOS — hold Right Option to dictate | Swift |
+| [ctx](https://github.com/qazaqninja/ctx) | CLI that extracts coding patterns and conventions from codebases into AI-ready context | TypeScript |
+| [claude-cleanup](https://github.com/qazaqninja/claude-cleanup) | Hooks that auto-kill orphaned Claude Code processes eating your RAM | Shell |
+
+## Personal Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| teabot | Telegram bot for daily Islamic spiritual activity reminders | Python |
+| niyet | Daily intention tracker rooted in Islamic practice (spiritual, family, work, charity) | Flutter |
+| codestreak | Gamified DSA learning platform with code editor | Flutter |
+| codestreak-api | Backend for CodeStreak — auth, code execution via Judge0, gamification | Python (FastAPI) |
+| [hello](https://qazaqninja.dev/) | Portfolio website with glassmorphic UI and mouse-tracking effects | React 19 + Vite |
+| aqylym | Educational app with clean architecture, BLoC, and gamification | Flutter |
+
+## Work — Barakah Tech Labs
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| shukr | Social platform for sharing gratitude — offline-first, encrypted circles | Flutter |
+| shukr-api | REST API for Shukr — users, posts, circles, notifications | Bun + Hono + PostgreSQL |
+| shukr_encoder | Headless media encoding library for video/audio/image | Flutter |
+
+## Client Work
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| oqy | EPUB e-book reader with offline reading, bookmarks, themes | Flutter |
+| kepler_education | Educational mobile app with chat, audio, maps, gamification | Flutter |
+| kepler_vision | Vision/ML app for detecting and analyzing visual content | Flutter |
 
 ## Connect
 
