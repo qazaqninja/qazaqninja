@@ -1,8 +1,10 @@
 # Angsagan Kenzhebek
 
-Senior / Lead Flutter & Dart Engineer
+**Senior / Lead Flutter & Dart Engineer** · Astana, Kazakhstan (GMT+5) · open to remote
 
-Less talk, more code. **4+ years** of shipping apps that work — **6 apps** in production, **88+ feature modules**, APK cut **71 → 26 MB**.
+Less talk, more code. **4+ years** shipping apps that stay fast, work offline, and don't leak your data.
+
+**6 apps** in production · **88+ feature modules** architected · APK cut **71 → 26 MB (−63%)** · **99%+** crash-free
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
@@ -12,6 +14,18 @@ Less talk, more code. **4+ years** of shipping apps that work — **6 apps** in 
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
+🚧 **Now:** building social features at [Joiner](https://getjoiner.com) · nights & weekends: [Quill](https://github.com/qazaqninja/my_notion), a markdown-first Notion alternative
+
+## Open Source
+
+| Project | Pitch |
+|---------|-------|
+| [claude-cleanup](https://github.com/qazaqninja/claude-cleanup) ⭐ | Claude Code leaves zombie processes eating your RAM. This hunts them down — hooks + skill, fully automatic. |
+| [dict8](https://github.com/qazaqninja/dict8) | Talk to your Mac without the cloud listening. Hold Right Option, speak, done — 100% local speech-to-text in Swift. `brew install` [ready](https://github.com/qazaqninja/homebrew-dict8). |
+| [Quill](https://github.com/qazaqninja/my_notion) | A Notion that's just files. Self-hosted, markdown-first, built in Flutter — every page is a real `.md` with YAML frontmatter. Your notes outlive the app. |
+| [mac-clean](https://github.com/qazaqninja/mac-clean) | macOS disk cleanup for developers — finds the caches, logs, and node_modules graveyards hiding your gigabytes. |
+| [ctx](https://github.com/qazaqninja/ctx) | CLI that extracts your codebase's patterns and conventions into AI-ready context — so your agent codes like your team. |
+
 ## Experience
 
 **Flutter Engineer** · [Joiner](https://getjoiner.com) · Feb 2026 - Present
@@ -20,7 +34,7 @@ Less talk, more code. **4+ years** of shipping apps that work — **6 apps** in 
 > Flutter, Clean Architecture, BLoC
 
 **Lead Flutter Developer** · Barakah Tech Labs · Aug 2025 - Feb 2026
-> Social platform — 21 modules, offline-first, E2E encryption, APK 71 → 26 MB via native codec migration
+> Social platform — 21 modules, offline-first, E2E encrypted, APK 71 → 26 MB via native codec migration
 >
 > Flutter, Drift, AES, MediaCodec / AVAssetExportSession
 
@@ -53,14 +67,8 @@ Less talk, more code. **4+ years** of shipping apps that work — **6 apps** in 
 
 Flutter & Dart · Clean Architecture (DDD) · BLoC / Cubit · Offline-First & Sync (Drift) · E2E Encryption (AES) · Biometric Auth / MLKit Face Liveness · Media Encoding (MediaCodec / AVAssetExportSession) · WebSocket / Real-Time (Centrifuge) · Firebase · CI/CD (GitHub Actions, Fastlane) · Sentry
 
-## Open Source
-
-| Project | Description |
-|---------|-------------|
-| [dict8](https://github.com/qazaqninja/dict8) | Local offline speech-to-text for macOS — hold Right Option to dictate |
-| [ctx](https://github.com/qazaqninja/ctx) | CLI that extracts coding patterns and conventions from codebases into AI-ready context |
-| [claude-cleanup](https://github.com/qazaqninja/claude-cleanup) | Hooks that auto-kill orphaned Claude Code processes eating your RAM |
-
 ## Connect
 
-[qazaqninja.dev](https://qazaqninja.dev/) · [LinkedIn](https://linkedin.com/in/qazaqninja) · [Telegram](https://t.me/qazaqninja) · [X](https://x.com/qazaqninja)
+[qazaqninja.dev](https://qazaqninja.dev/) · [LinkedIn](https://linkedin.com/in/qazaqninja) · [Telegram](https://t.me/qazaqninja) · [X](https://x.com/qazaqninja) · [email](mailto:a.kenzhebek1643@gmail.com)
+
+*Off the keyboard: specialty-coffee obsessive. Single-origin pour-over, always — and yes, I weigh the beans.* ☕
