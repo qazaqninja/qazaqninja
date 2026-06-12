@@ -14,8 +14,6 @@ Less talk, more code. **4+ years** shipping apps that stay fast, work offline, a
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-🚧 **Now:** building social features at [Joiner](https://getjoiner.com) · nights & weekends: [Quill](https://github.com/qazaqninja/my_notion), a markdown-first Notion alternative
-
 ## Open Source
 
 | Project | Pitch |
