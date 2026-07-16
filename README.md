@@ -20,6 +20,9 @@ Less talk, more code. **4+ years** shipping apps that stay fast, work offline, a
 |---------|-------|
 | [claude-cleanup](https://github.com/qazaqninja/claude-cleanup) ⭐ | Claude Code leaves zombie processes eating your RAM. This hunts them down — hooks + skill, fully automatic. |
 | [dict8](https://github.com/qazaqninja/dict8) | Talk to your Mac without the cloud listening. Hold Right Option, speak, done — 100% local speech-to-text in Swift. `brew install` [ready](https://github.com/qazaqninja/homebrew-dict8). |
+| [baby_monitor](https://github.com/qazaqninja/baby_monitor) | Your spare phone is now a baby monitor. Flutter + WebRTC — live video & audio over WiFi, phone to phone. No backend, no subscription, no cloud. |
+| [local-ai](https://github.com/qazaqninja/local-ai) | LLM chat that works on a plane. Any GGUF model running fully on-device on iOS via llama.cpp — Claude-style UI, zero internet. |
+| [yt2skill](https://github.com/qazaqninja/yt2skill) | Turn any YouTube tutorial into a reusable agent skill — transcript in, installable SKILL.md out. |
 | [Quill](https://github.com/qazaqninja/my_notion) | A Notion that's just files. Self-hosted, markdown-first, built in Flutter — every page is a real `.md` with YAML frontmatter. Your notes outlive the app. |
 | [mac-clean](https://github.com/qazaqninja/mac-clean) | macOS disk cleanup for developers — finds the caches, logs, and node_modules graveyards hiding your gigabytes. |
 | [ctx](https://github.com/qazaqninja/ctx) | CLI that extracts your codebase's patterns and conventions into AI-ready context — so your agent codes like your team. |
